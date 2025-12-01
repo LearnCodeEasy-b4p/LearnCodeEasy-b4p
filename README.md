@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruhi  
+### Full Stack Web Developer | WordPress • MERN • Shopify • JavaScript  
 
-<!--
-**LearnCodeEasy-b4p/LearnCodeEasy-b4p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build real-world web projects and share tutorials on my YouTube channel **LearnCodeEasy-b4p**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills & Expertise
+
+### Frontend
+HTML5 • CSS3 • JavaScript (ES6+) • Tailwind CSS • Responsive Design • AJAX • jQuery  
+
+### Backend / MERN
+Node.js • Express.js • MongoDB • MySQL • REST APIs • JWT Authentication • React.js • Redux  
+
+### WordPress
+Custom Themes • Custom Plugins • WooCommerce • ACF • CPT • Hooks & APIs • Hosting Setup • SSL & DNS  
+
+### Shopify
+Theme Customization • Liquid • App Integration  
+
+### Tools & Workflow
+Git • GitHub • VS Code • Netlify • Vercel • Postman • Figma to Code  
+
+---
+
+## 📦 Latest Project Source Code
+
+- 🔐 **Password Strength Checker** — [Source Code](https://github.com/LearnCodeEasy-b4p/password-strength-checker)  
+- ➕ **JavaScript Calculator** — [Source Code](https://github.com/LearnCodeEasy-b4p/js-calculator)  
+- 🖼 **Image Gallery Project** — [Source Code](#)  
+- ✨ More Projects Coming Soon…
+
+> Each project repo has code, screenshots, and YouTube tutorial links.
+
+---
+
+## 🌐 Connect With Me
+
+🎬 YouTube: [LearnCodeEasy](https://www.youtube.com/@LearnCodeEasy-b4p)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnCodeEasy-b4p&show_icons=true)
+
+---
+
+⭐ If you like my work, don’t forget to **star the repositories**! Thanks for the support 😊
