@@ -26,7 +26,7 @@ Git • GitHub • VS Code • Netlify • Vercel • Postman • Figma to Code
 
 ## 📦 Latest Project Source Code
 
-- 🔐 **Password Strength Checker** — [Source Code](https://github.com/LearnCodeEasy-b4p/password-strength-checker)  
+- 🔐 **Text to Voice Converter** — [Source Code]([https://github.com/LearnCodeEasy-b4p/password-strength-checker](https://github.com/LearnCodeEasy-b4p/text-to-voice-converter))  
 - ➕ **JavaScript Calculator** — [Source Code](https://github.com/LearnCodeEasy-b4p/js-calculator)  
 - 🖼 **Image Gallery Project** — [Source Code](#)  
 - ✨ More Projects Coming Soon…
