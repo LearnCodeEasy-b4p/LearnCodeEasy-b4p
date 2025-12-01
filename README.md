@@ -41,7 +41,8 @@ Git • GitHub • VS Code • Netlify • Vercel • Postman • Figma to Code
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnCodeEasy-b4p&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnCodeEasy-b4p&show_icons=true&theme=radical)
+
 
 ---
 
