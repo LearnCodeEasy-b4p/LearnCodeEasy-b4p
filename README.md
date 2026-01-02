@@ -36,6 +36,7 @@ Git • GitHub • VS Code • Netlify • Vercel • Postman • Figma to Code
 ## 🌐 Connect With Me
 
 🎬 YouTube: [LearnCodeEasy](https://www.youtube.com/@LearnCodeEasy-b4p)  
+📧 Email: [learncodeeasy.b4p@gmail.com](mailto:learncodeeasy.b4p@gmail.com)
 
 ---
 
